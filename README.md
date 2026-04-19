@@ -314,3 +314,5 @@ Projeto desenvolvido como parte do curso de Análise e Desenvolvimento de Sistem
 ## 📞 Suporte
 
 Para suporte ou dúvidas sobre o projeto SOphia_Cursos, entre em contato através do GitHub ou abra uma issue no repositório.
+
+Teste2
